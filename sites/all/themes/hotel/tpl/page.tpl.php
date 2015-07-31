@@ -2,7 +2,7 @@
   <?php if(isset($page['show_skins_menu']) && $page['show_skins_menu']):?>
   <?php print $page['show_skins_menu'];?>
   <?php endif;?>
-  
+  <!-- This is testing only --->  
   <!-- HEADER -->
   <div id="header-wrapper" class="wrapper">
     <div class="container <?php print $grid; ?>">
